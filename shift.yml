@@ -326,7 +326,7 @@ pools:
         - 6629046512399343440S
   -
     delegate: hongkie
-    share: 50
+    share: 40
     payout:
       addresses:
         - 12382181999476449415S
